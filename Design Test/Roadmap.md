@@ -3,4 +3,4 @@
 
 **Online judges**
 
-- [codeforces](https://codeforces.com)
+- [codeforces](https://codeforces.com/)
